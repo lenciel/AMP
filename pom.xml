@@ -82,7 +82,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <modules>
-                <module>AMPSample</module>
+                <module>ampsample-app</module>
                 <!-- TODO: the standard profile runs the instrumentation tests -->
                 <!--  <module>morseflash-instrumentation</module> -->
             </modules>
@@ -100,7 +100,7 @@
                 </property>
             </activation>
             <modules>
-                <module>AMPSample</module>
+                <module>ampsample-app</module>
             </modules>
         </profile>
     </profiles>
