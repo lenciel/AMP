@@ -1,0 +1,11 @@
+/*
+ * Copyright (C) 2011 Myriad Group AG. All Rights Reserved.
+ */
+package org.lenciel.android;
+
+public class Bomb {
+
+    public void explode() {
+        throw new RuntimeException("Boom!");
+    }
+}
